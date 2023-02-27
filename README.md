@@ -35,8 +35,8 @@
 ![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)&nbsp;
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
-![CSharp](https://img.shields.io/github/downloads/JoaoRamirezz/readMe/total?label=Csharp&logo=CSharp)&nbsp;
-![Python](https://img.shields.io/github/downloads/joaoramirezz/readMe/total?label=Python&logo=python)&nbsp;
+![CSharp](https://img.shields.io/badge/CSHARP-503399.svg?&style=flat&logo=csharp&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/PYTHON-335299.svg?&style=flat&logo=python&logoColor=%23F7DF1E)&nbsp;
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
