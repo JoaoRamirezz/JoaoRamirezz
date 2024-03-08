@@ -2,12 +2,12 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a System Developer Apprentice Lead at [BOSCH](https://www.bosch.com.br/) (Curitiba) \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for music and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with web development and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently studing Software Engineering at UniSenai.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2020 at beginning of my college.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Brazil with my mom :woman:, and my step-father :man:.
+&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently working as a System Developer Apprentice Lead at [BOSCH](https://www.bosch.com.br/) (Curitiba) \
+&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Love for music and innovation.\
+&nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Passionate with web development and daily routines automation.\
+&nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;Currently studing Software Engineering at UniSenai.\
+&nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;Coding since 2020 at beginning of my college.\
+&nbsp;&nbsp;&nbsp; :family_man_woman_girl_girl: &nbsp;Living in Brazil with my mom :woman:, and my step-father :man:.
 
 <p align="center">
   <a href="mailto:joao.rkonrath@gmail.com?subject=Olá%20João%20Ramirez"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
